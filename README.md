@@ -1,1 +1,1 @@
-# ChromiumPDFRenderForDelphi
+# ChromePDFRendererForDelphi
